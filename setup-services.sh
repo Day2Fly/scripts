@@ -1,5 +1,5 @@
 #!/bin/bash
-# 自动创建 qBittorrent-nox 和 Vertex 的 systemd 服务，实现netcup可重启服务
+# 自动创建 qBittorrent-nox 和 Vertex 的 systemd 服务，实现netcup重启服务 qBittorrent-nox 和 Vertex
 
 USER="dayroot"
 QB_PATH="/usr/local/bin/qbittorrent-nox"
